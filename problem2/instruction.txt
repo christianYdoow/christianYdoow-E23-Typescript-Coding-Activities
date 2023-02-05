@@ -1,0 +1,6 @@
+/*
+Problem:
+    Type "Person" is missing, please define it and use
+    it in persons array and logPerson function in order to fix
+    all the TS errors.
+*/
