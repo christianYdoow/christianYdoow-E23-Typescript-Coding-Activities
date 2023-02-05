@@ -1,0 +1,5 @@
+Find out how many zeros a given number has at the end.
+
+Input: A positive int
+
+Output: A int.
